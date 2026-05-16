@@ -1502,11 +1502,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samdo\\Documents\\CSE325\\DotNetDependencies\\DotNetDependencies.csproj",
+      "projectUniqueName": "C:\\Users\\samdo\\Documents\\cse325-2026\\DotNetDependencies\\DotNetDependencies.csproj",
       "projectName": "DotNetDependencies",
-      "projectPath": "C:\\Users\\samdo\\Documents\\CSE325\\DotNetDependencies\\DotNetDependencies.csproj",
+      "projectPath": "C:\\Users\\samdo\\Documents\\cse325-2026\\DotNetDependencies\\DotNetDependencies.csproj",
       "packagesPath": "C:\\Users\\samdo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samdo\\Documents\\CSE325\\DotNetDependencies\\obj\\",
+      "outputPath": "C:\\Users\\samdo\\Documents\\cse325-2026\\DotNetDependencies\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samdo\\AppData\\Roaming\\NuGet\\NuGet.Config"

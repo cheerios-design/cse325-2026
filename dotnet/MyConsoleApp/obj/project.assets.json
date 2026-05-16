@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samdo\\Documents\\CSE325\\dotnet\\MyConsoleApp\\MyConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\samdo\\Documents\\cse325-2026\\dotnet\\MyConsoleApp\\MyConsoleApp.csproj",
       "projectName": "MyConsoleApp",
-      "projectPath": "C:\\Users\\samdo\\Documents\\CSE325\\dotnet\\MyConsoleApp\\MyConsoleApp.csproj",
+      "projectPath": "C:\\Users\\samdo\\Documents\\cse325-2026\\dotnet\\MyConsoleApp\\MyConsoleApp.csproj",
       "packagesPath": "C:\\Users\\samdo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samdo\\Documents\\CSE325\\dotnet\\MyConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\samdo\\Documents\\cse325-2026\\dotnet\\MyConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samdo\\AppData\\Roaming\\NuGet\\NuGet.Config"

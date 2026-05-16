@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samdo\\Documents\\CSE325\\DotNetDebugging\\DotNetDebugging.csproj",
+      "projectUniqueName": "C:\\Users\\samdo\\Documents\\cse325-2026\\DotNetDebugging\\DotNetDebugging.csproj",
       "projectName": "DotNetDebugging",
-      "projectPath": "C:\\Users\\samdo\\Documents\\CSE325\\DotNetDebugging\\DotNetDebugging.csproj",
+      "projectPath": "C:\\Users\\samdo\\Documents\\cse325-2026\\DotNetDebugging\\DotNetDebugging.csproj",
       "packagesPath": "C:\\Users\\samdo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samdo\\Documents\\CSE325\\DotNetDebugging\\obj\\",
+      "outputPath": "C:\\Users\\samdo\\Documents\\cse325-2026\\DotNetDebugging\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samdo\\AppData\\Roaming\\NuGet\\NuGet.Config"
