@@ -1,4 +1,4 @@
-# Week 01 — Build .NET Applications (friendly notes)
+# Week 01 — Build .NET Applications
 
 Hi! This repo contains the completed artifacts for the W01 assignment: a small Web API (ContosoPizza) with CRUD support and the files app changes that produce a sales summary.
 
@@ -66,7 +66,5 @@ dotnet run
 ```
 
 This will ensure sample `stores/201`–`stores/204` exist, compute totals, write `salestotals.json` for each store, a combined `totals.txt`, and `sales-summary.txt` under the `stores` folder.
-
-If you'd like, I can also run the API and paste the actual HTTP responses (with status codes) into this notes file as captured evidence — would you like that? 
 
 Thanks — happy to tweak wording or packaging for submission.
