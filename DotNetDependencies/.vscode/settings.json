@@ -1,0 +1,7 @@
+{
+    "launch": {
+        console": "integratedTerminal",
+        "configurations": [],
+        "compounds": []
+    }
+}
