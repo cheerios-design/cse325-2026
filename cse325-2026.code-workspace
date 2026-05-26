@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "msLearnW01/mslearn-dotnet-files"
+		}
+	],
+	"settings": {
+		"chat.tools.terminal.autoApprove": {
+			"dotnet build": true,
+			"dotnet run": true,
+			"Set-Content": true
+		}
+	}
+}
